@@ -40,3 +40,9 @@ Danny wants to make data-driven decisions to expand his diner and loyalty progra
 * Explore real-life business use cases through data
 * Strengthen problem-solving and analytical skills in a structured format
 
+
+##  Author
+
+*Maira Nawaz*
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
